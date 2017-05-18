@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Anylo Pelaa 
 
-You can use the [editor on GitHub](https://github.com/anylonen/AnyloPelaa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Olet löytänyt sivuni, jossa on listattuna valtaosa julkaisemistani videoista sekä muutama oleellinen linkki.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Youtube-kanava                          | [https://www.youtube.com/c/AnyloPelaa](https://www.youtube.com/c/AnyloPelaa?sub_confirmation=1)     |
+| Toiveet, pyynnöt, viestit ja kaikki muu | [https://www.youtube.com/c/AnyloPelaa/discussion]([https://www.youtube.com/c/AnyloPelaa/discussion) |
+| Instagram                               | [https://www.instagram.com/anylopelaa/](https://www.instagram.com/anylopelaa/)                      |
+| Twitter                                 | [https://twitter.com/AnyloPelaa](https://twitter.com/AnyloPelaa)                                    |
+| Facebook                                | [https://www.facebook.com/AnyloPelaa/](https://www.facebook.com/AnyloPelaa/)                        |
 
-### Markdown
+Listan videoistani löydät osoitteesta [https://github.com/anylonen/AnyloPelaa/AnyloPelaa.html](https://github.com/anylonen/AnyloPelaa/AnyloPelaa.html). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anylonen/AnyloPelaa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
