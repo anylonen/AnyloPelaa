@@ -1,0 +1,147 @@
+** TODO Farming Valley [22/23]
+Farming Valley modipaketti yhdistää Stardew Valleyn sekä Harvest Moonin Minecraftiin. Normaalin rakentelun sijasta tarkoituksena on rakentaa oma farmi ja palauttaa myrskyn mukanaan viemät kyläläiset takaisin.
+
+| Minecraftin versio | 1.10.2                                                                   |
+| Modipaketti        | https://minecraft.curseforge.com/projects/farming-valley                 |
+| Soittolista        | https://www.youtube.com/playlist?list=PLaFYMC7ltVWkB5hqaOWfHnscHY88Uvtgm |
+| Sarja alkoi        | [2018-01-20 la]                                                         |
+| Sarja päättyi      |                                                                          |
+
+*** DONE Osa 1: Elonkorjuun jumalatar [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-02 pe 12:19] SCHEDULED: <2018-01-20 la>
+  | Julkaisupäivä | [2018-01-20 la]                                                                                              |
+  | Kuvaus        | Uusi sarja alkaa! Osaisiko sadonkorjuun jumalatar neuvoa kuinka kadonneet kyläläiset saataisiin palautettua? |
+  | Linkki        | https://youtu.be/tKQbekgKMFE                                                                                 |
+
+*** DONE Osa 2: Kevätkylvö [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-01-28 su 11:02] SCHEDULED: <2018-01-24 ke>
+  | Julkaisupäivä | [2018-01-24 ke]                                                                 |
+  | Kuvaus        | Puusepän verstas valmistuu ja voidaankin keskittyä ensimmäiseen kevätkylvöön... |
+  | Linkki        | https://youtu.be/bS0n_eJJl4w                                                    |
+
+
+*** DONE Osa 3: Kukkia Jadelle [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-01-28 su 11:02] SCHEDULED: <2018-01-28 su>
+  | Julkaisupäivä | [2018-01-28 su]                                                                                                       |
+  | Kuvaus        | Pellolle mahtuisi vielä kasvatettavaa, mutta siemenet puuttuvat. Antaisikohan Jade niitä, jos hänelle veisi kukkia... |
+  | Linkki        | https://youtu.be/0h6P0ntNEy8                                                                                          |
+
+*** DONE Osa 4: Kauppaa pukkaa [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-01-29 ma 00:34] SCHEDULED: <2018-01-31 ke>
+  | Julkaisupäivä | [2018-01-31 ke]                                                        |
+  | Kuvaus        | Tehdään turnipseilla kauppaa, jotta voitaisiin ostaa kylään kauppaa... |
+  | Linkki        | https://youtu.be/C7HAoZhZ4Sk                                           |
+
+*** DONE Osa 5: Peltotöitä [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-02 pe 13:38] SCHEDULED: <2018-02-03 la>
+  | Julkaisupäivä | [2018-02-03 la]                                                                                                   |
+  | Kuvaus        | Vihdoinkin päästään tekemään urakalla peltotöitä, kun kauppa valmistuu ja sieltä on mahdollista ostaa siemeniä... |
+  | Linkki        | https://youtu.be/i2pInCrJ2oI                                                                                      |
+
+*** DONE Osa 6: Ensimmäinen lemmikki [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-08 to 18:59] SCHEDULED: <2018-02-09 pe>
+  | Julkaisupäivä | [2018-02-09 pe]                                                                   |
+  | Kuvaus        | Jälleen yksi rakennus valmistuu ja palkkioksi saadaan ensimmäinen oma lemmikki... |
+  | Linkki        | https://youtu.be/poX7b2pYK-0                                                      |
+
+*** DONE Osa 7: Kana [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-11 su 19:08] SCHEDULED: <2018-02-12 ma>
+  | Julkaisupäivä | [2018-02-12 ma]                                               |
+  | Kuvaus        | Kylä kasvaa pikku hiljaa. Samoin farmi, jonne saadaan kana... |
+  | Linkki        | https://youtu.be/3Fu5z69SLJ4                                  |
+
+*** DONE Osa 8: Seppä [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-15 to 18:11] SCHEDULED: <2018-02-16 pe>
+  | Julkaisupäivä | [2018-02-16 pe]                                                                      |
+  | Kuvaus        | Eihän se ole kylä eikä mikään, jos ei löydy paikallista seppää takomaan työkaluja... |
+  | Linkki        | https://youtu.be/ZpFAaAQIdVg                                                         |
+
+*** DONE Osa 9: Lampi [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-15 to 18:25] SCHEDULED: <2018-02-19 ma>
+  | Julkaisupäivä | [2018-02-19 ma]                                                                                                    |
+  | Kuvaus        | Sadonkorjuun jumalatar on auttanut kylän pystyttämisessä sen verran, että rakennetaanpa hänen kunniakseen lampi... |
+  | Linkki        | https://youtu.be/fsgdhmxeH68                                                                                       |
+
+*** DONE Osa 10: Kaivos [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-25 su 20:14] SCHEDULED: <2018-02-23 pe>
+  | Julkaisupäivä | [2018-02-23 pe]                                               |
+  | Kuvaus        | Kaivos on valmistunut, joten sukelletaanpas sen syvyyksiin... |
+  | Linkki        | https://youtu.be/c_bwj_T6K14                                  |
+
+*** DONE Osa 11: Talo [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-27 ti 11:26] SCHEDULED: <2018-02-26 ma>
+  | Julkaisupäivä | [2018-02-26 ma]              |
+  | Kuvaus        | Reikä vuoren seinässä ei ole paras paikka asua, joten rakennetaan talo... |
+  | Linkki        | https://youtu.be/82QvhgoH2RU |
+
+*** DONE Osa 12: Uusi alku [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-27 ti 12:09] SCHEDULED: <2018-03-02 pe>
+  | Julkaisupäivä | [2018-03-02 pe]                                                                  |
+  | Kuvaus        | Masentunut seppä ei suostu enää yhteistyöhön. On siis aika perustaa uusi kylä... |
+  | Linkki        | https://youtu.be/dkk_re0wqOE                                                     |
+
+*** DONE Osa 13: Rakennusmiehet [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-27 ti 19:51] SCHEDULED: <2018-03-05 ma>
+  | Julkaisupäivä | [2018-03-05 ma]                                                         |
+  | Kuvaus        | Uusi kylä kasvaa kovaa vauhtia, koska työssä on kaksi rakennusmiestä... |
+  | Linkki        | https://youtu.be/DcYFcZqy6JU                                            |
+
+*** DONE Osa 14: Uusi kaivos [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-02-27 ti 12:26] SCHEDULED: <2018-03-09 pe>
+  | Julkaisupäivä | [2018-03-09 pe]                                                                                                 |
+  | Kuvaus        | Työkalut alkavat olla korjausta vailla. Raaka-aineet kuitenkin puuttuvat, joten on aika rakentaa uusi kaivos... |
+  | Linkki        | https://youtu.be/v2Q6xW_g-TU                                                                                    |
+
+*** DONE Osa 15: Kirje [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-02 ma 15:12] SCHEDULED: <2018-03-12 ma>
+  | Julkaisupäivä | [2018-03-12 ma]                                                                                       |
+  | Kuvaus        | Keräilläänpäs materiaalia ja rahaa, jotta saadaan hankittua seppä. Mutta kirje sotkee suunnitelmat... |
+  | Linkki        | https://youtu.be/1ALNybNCO54                                                                          |
+
+*** DONE Osa 16: Puisto [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-08 su 22:38] SCHEDULED: <2018-04-02 ma>
+  | Julkaisupäivä | [2018-04-02 ma]                                                                                                   |
+  | Kuvaus        | Joku on ystävällisesti jättänyt puiston piirustukset arkkuun, joten kylän osalta päästään vihdoinkin etenemään... |
+  | Linkki        | https://youtu.be/MdPS3UU1aR4                                                                                      |
+
+*** DONE Osa 17: Kohti syvyyksiä [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-08 su 23:02] SCHEDULED: <2018-04-09 ma>
+  | Julkaisupäivä | [2018-04-09 ma]              |
+  | Kuvaus        | Kesä alkaa olla päätöksessä ja vihdoinkin on aikaa tutkia kaivosta syvemmälle... |
+  | Linkki        | https://youtu.be/PpksUSyIUT8 |
+
+*** DONE Osa 18: Hautomo [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-16 ma 01:52] SCHEDULED: <2018-04-16 ma>
+  | Julkaisupäivä | [2018-04-16 ma]                                                                            |
+  | Kuvaus        | Syksy saapuu ja krooninen rahapula vaivaa. Saataisiinko munista helpotusta tilanteeseen... |
+  | Linkki        | https://youtu.be/e5Wk0_m59Aw                                                               |
+
+*** DONE Osa 19: Kanala [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-19 to 21:18] SCHEDULED: <2018-04-20 pe>
+  | Julkaisupäivä | [2018-04-20 pe]              |
+  | Kuvaus        | Lehmuli ja Tuhmuli saavat uuden kaverin! On siis aika rakentaa kanala... |
+  | Linkki        | https://youtu.be/yKfBy4_ciC0 |
+
+*** DONE Osa 20: Metallipaja [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-22 su 16:57] SCHEDULED: <2018-04-23 ma>
+  | Julkaisupäivä | [2018-04-23 ma]                                                                                                                                                 |
+  | Kuvaus        | Farmilla tehdään viimeiset syksyn sadonkorjuut ja aikaa jää myös kaivoksessa pyörimiseen. Pohjalta löytyy jotain, jonka esiin kaivaminen vaatii metallipajan... |
+  | Linkki        | https://youtu.be/yEEnMa8MRvE                                                                                                                                    |
+
+*** DONE Osa 21: Iso muna [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-27 pe 00:14] SCHEDULED: <2018-04-27 pe>
+  | Julkaisupäivä | [2018-04-27 pe]                                                                 |
+  | Kuvaus        | Talvi saapuu ja sen myötä on aika tehdä jotain muuta. Jos se vaan onnistuisi... |
+  | Linkki        | https://youtu.be/Rp7cJD_Hwq8                                                    |
+
+*** DONE Osa 22: Timanttei [Farming Valley] [Minecraft] [Suomi]
+    CLOSED: [2018-04-30 ma 09:34] SCHEDULED: <2018-04-30 ma>
+  | Julkaisupäivä | [2018-04-30 ma]                                                                           |
+  | Kuvaus        | Vuorossa kaivelua isosti, jonka lopputulemana on särkymätön leka ja iso kasa timanttei... |
+  | Linkki        | https://youtu.be/ExLsAcec9YY                                                              |
+
+*** TODO Osa 23: [Farming Valley] [Minecraft] [Suomi]
+    SCHEDULED: <2018-05-04 pe>
+  | Julkaisupäivä | [2018-05-04 pe] |
+  | Kuvaus        |                 |
+  | Linkki        |                 |
