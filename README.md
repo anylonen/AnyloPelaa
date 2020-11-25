@@ -2,7 +2,8 @@
 
 Olet löytänyt sivuni, jossa on listattuna valtaosa julkaisemistani videoista sekä muutama oleellinen linkki.
 
-|-----------------------------------------+----------------------------------------------------------------------------------------------------|
+| Mitä                                    | Missä                                                                                              |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------|
 | Youtube-kanava                          | [https://www.youtube.com/c/AnyloPelaa](https://www.youtube.com/c/AnyloPelaa?sub_confirmation=1)    |
 | Toiveet, pyynnöt, viestit ja kaikki muu | [https://www.youtube.com/c/AnyloPelaa/discussion](https://www.youtube.com/c/AnyloPelaa/discussion) |
 | Instagram                               | [https://www.instagram.com/anylopelaa/](https://www.instagram.com/anylopelaa/)                     |
